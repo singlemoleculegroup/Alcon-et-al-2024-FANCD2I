@@ -11,12 +11,12 @@ using
 
 The scripts are executed in Jupyter Notebook using libraries:
 
-numpy 1.26.0
-matplotlib 3.7.2
-statistics
-lumicks pylake 1.2.1 (https://lumicks-pylake.readthedocs.io/en/stable/install.html#)
-scipy 1.11.3
-peakutils 1.3.4
+- numpy 1.26.0
+- matplotlib 3.7.2
+- statistics
+- lumicks pylake 1.2.1 (https://lumicks-pylake.readthedocs.io/en/stable/install.html#)
+- scipy 1.11.3
+- peakutils 1.3.4
 
 
 Detailed instruction on how to install Anaconda and Pylake package is available here: https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
